@@ -27,8 +27,5 @@ It has capabilities to add additonal passengers and baggage and we give the opti
 ### Editing a Placed Reservation
 We also enable users to track their reservation throguh the program as well as making needed changes such as adding more passsengers and baggage. We understand that the unexpected can happen and are happy to provide users with flight credits as a form of refund for a cancelled flight!
 
-#### Walk-through to Make a Reservation
-<img src="http://g.recordit.co/VZrerYU8q2.gif" width=600><br>
-
 #### Walk-through to Edit a Reservation
 <img src="http://g.recordit.co/XojeP8Mtwx.gif" width=600><br>
