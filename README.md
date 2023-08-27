@@ -11,7 +11,6 @@ This program allows a client to book a flight using our flight reservation syste
 ### Learning Outcomes
   - Building, Desigining, and Testing an Interacteractive Program
   - Using a database for airports, flights, and user managment
-  - ...
 
 ### Langauges and Technologies
   - Java, JavaSwing, and JavaFX
